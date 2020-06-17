@@ -5,7 +5,13 @@ class SimplePagesController < ApplicationController
   def about
   end
 
-  def portfolio
+  def supplements
+  end
+
+  def foods
+  end
+
+  def how_to_live_101
   end
 
   def contact
